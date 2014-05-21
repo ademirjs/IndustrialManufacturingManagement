@@ -1,2 +1,2 @@
-IndustrialManufacturingManagement
+Industrial Manufacturing Management
 =================================
